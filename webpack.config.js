@@ -17,7 +17,7 @@ module.exports = {
     new UglifyJsPlugin({ sourceMap: true }),
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'romman-npm',
+      title: 'chuck',
       template: './src/index.html',
       inject: 'body'
     })

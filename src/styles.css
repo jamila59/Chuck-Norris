@@ -16,3 +16,15 @@
   color: blue;
   font-style: italic;
 }
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+body {
+  background-image: url(https://porch.com/advice/wp-content/uploads/2015/06/LidodGG7T.jpg);
+  height: 100%;
+ background-size: cover;
+}
